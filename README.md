@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi :wave: I just work here.
+
+[![I'm a rando](https://www.randos.online/u/southgate)](https://randos.online/u/southgate/next)
 
 <!--
 **southgate/southgate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
