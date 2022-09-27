@@ -1,4 +1,4 @@
-Hi :wave: ~I just work here but~ this is my dog, Big Sur.
+Hi :wave: I work at WorkOS and this is my dog, Big Sur.
 
 ![big sur](https://github.com/southgate/southgate/blob/master/41834699-00acc260-780a-11e8-992f-8350fbb3b8bb.png)
 
